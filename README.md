@@ -1,50 +1,82 @@
-# Olá, eu sou Henrique Guilherme! 👋
+# Olá, Eu sou Henrque Guilherme
 
-### Desenvolvedor | Entusiasta de Tecnologia
+**`Desenvolvedor python`**
 
-Bem-vindo ao meu espaço no GitHub! Sou um entusiasta da programação focado em **aprender e criar soluções eficientes**. Atualmente, estou focado em aprofundar meus conhecimentos em tecnologias web e back-end.
+Futuro desenvolvedor back-end, cursando Análise e Desenvolvimento de Sistemas (ADS) na Estácio, com formatura prevista para 2027. Tenho paixão por tecnologia e busco constantemente aprimorar minhas habilidades em programação e desenvolvimento de sistemas.
 
----
-
-## 🚀 Habilidades e Ferramentas
-
-Aqui estão algumas das tecnologias e linguagens que eu utilizo:
-
-* **Linguagens de Programação:**
-    * Python (como visto no projeto fixado)
-    * HTML, CSS, JavaScript (com base no seu ícone de perfil)
-
-* **Ferramentas e Outros:**
-    * Git & GitHub
-    * [**Adicione aqui outras ferramentas** que você usa, como frameworks (ex: Django, Flask), bancos de dados (ex: MySQL, PostgreSQL), etc.]
-
----
-
-## 💡 Projetos em Destaque
-
-Confira um dos projetos que estou destacando:
-
-### 🐍 Cadastro-login-simples
-> Um sistema básico de cadastro e login desenvolvido em **Python**. Ideal para praticar a lógica de autenticação e manipulação de dados.
-
-* **[Link para o Repositório](https://github.com/gxhenrique/Cadastro-login-simples)** (Ajuste o link se necessário)
-
-**Outros projetos:**
-* [**Adicione um link para outro projeto** que você se orgulha]
-* [**Mencione o que você está construindo atualmente**]
+<p align="left">
+    <a href="https://github.com/gxhenrique?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/gxhenrique?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/gxhenrique?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/gxhenrique?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
 
 ---
 
-## 💬 Conecte-se Comigo
+### 🤖 Linguagens e Tecnologias
 
-Estou sempre aberto a novas conexões e discussões sobre tecnologia!
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
 
-* **LinkedIn:** [Seu Link do LinkedIn aqui]
-* **Email:** [Seu Email Profissional aqui]
-* **Twitter/X (Opcional):** [Seu Link do Twitter/X aqui]
+<br/>
+<br/>
 
----
+### 📊 Estatísticas
 
-## 📈 Estatísticas do GitHub
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=gxhenrique&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
-> **Dica:** Você pode adicionar estatísticas dinâmicas e emblemas (badges) aqui para tornar o README mais visualmente atraente. Pesquise por "GitHub Stats" ou "GitHub Badges" para ferramentas como `github-readme-stats` ou `shields.io`.
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gxhenrique&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
