@@ -1,6 +1,6 @@
 # Olá, Eu sou Henrque Guilherme
 
-**`Desenvolvedor python`**
+**`Desenvolvedor back-end`**
 
 Futuro desenvolvedor back-end, cursando Análise e Desenvolvimento de Sistemas (ADS) na Estácio, com formatura prevista para 2027. Tenho paixão por tecnologia e busco constantemente aprimorar minhas habilidades em programação e desenvolvimento de sistemas.
 
